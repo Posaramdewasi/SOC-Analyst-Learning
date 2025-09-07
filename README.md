@@ -1,4 +1,3 @@
-# SOC-Analyst-Learning
 # SOC Analyst L1 – Daily Report
 
 **Date:** 2025-09-07  
